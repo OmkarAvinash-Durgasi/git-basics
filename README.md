@@ -1,4 +1,4 @@
 # git-basics
-Basics on Git
+BASICS ON GIT
 
 In this session we are learning the basics of git and github
