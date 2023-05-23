@@ -1,1 +1,3 @@
-This is second sample text file.`
+This is second sample text file.
+
+updated
