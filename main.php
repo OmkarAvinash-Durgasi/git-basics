@@ -36,5 +36,7 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
 
 This is the main.php file where the Laravel Framework starting page is displayed
 
-
 Here I am working on branch1
+
+
+This is the update in branch2
